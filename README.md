@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="docs/logo.png" alt="Icon of the project" width="150"/>
+	<img src="docs/logo.png" alt="Icon of the project" height="150"/>
 </p>
 
 # <div align="center">Next.js Acme</div>
