@@ -20,12 +20,17 @@ This project is a training project for learning Next.js App Router, through the 
 
 ### Installation
 ```bash
-$ npm install
+$ pnpm install
+$ cp .env.example .env
 ```
+
+And fill the `.env` file with the appropriate values.
+
+Then, you can go to `localhost:3000/seed` to seed the database with some dummy data.
 
 ### Development
 ```bash
-$ npm run dev 
+$ pnpm run dev 
 #or, with vercel
 $ vercel dev
 ```
