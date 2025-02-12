@@ -82,7 +82,7 @@ Or simply push to the main branch, if you have the vercel integration enabled.
 
 > **Note:** Don't forget to set the environment variables in the vercel dashboard.
 
-## Future improvements
+## 📝 Future improvements
 - Internationalization
 - Add a dark mode
 - Push futher the SEO optimization
