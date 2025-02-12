@@ -24,7 +24,7 @@ $ pnpm install
 $ cp .env.example .env
 ```
 
-And fill the `.env` file with the appropriate values.
+And fill the `.env` file with the appropriate values. (fill the `AUTH_SECRET` with the output of `openssl rand -base64 32`)
 
 Then, you can go to `localhost:3000/seed` to seed the database with some dummy data.
 
