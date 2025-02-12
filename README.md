@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=js,next,vercel" height="30" />
+	<img src="https://skillicons.dev/icons?i=js,next,tailwind,vercel" height="30" />
 </p>
 
 <p align="center">
@@ -15,6 +15,44 @@
 
 ## ℹ️ About
 This project is a training project for learning Next.js App Router, through the [official tutorial](https://nextjs.org/learn/dashboard-app). It is a simple dashboard app, that has a list of invoices, and a list of customers. The user can navigate between the two lists, and see the details of each invoice or customer.
+
+<p align="center">
+	<img src="docs/dashboard.png" alt="Dashboard" width="1000"/>
+</p>
+
+## ✨ Features
+- **Invoices list**
+	- Display a list of invoices
+	- Pagination
+	- Searching invoices
+	- Add a new invoice
+	- Edit an invoice
+	- Delete an invoice
+
+- **Customers list**
+	- Display a list of customers
+	- Pagination
+	- Searching customers
+
+## 🚀 Tech Stack & Practices
+The purpose of this project is to implement the best practices of web app development : 
+- Nested routing
+- Server-side rendering (SSR)
+- Partial Pre-rendering
+- Dynamic rendering
+- Streaming
+- Responsive design
+- Loading skeleton
+- Images and fonts optimization
+- Authentication
+- Server-side form validation
+- Handling errors (404, 500)
+- Pagination
+- Search with URL parameters
+- Mutating data, with refreshing the cache
+- Accessibility
+- SEO optimization
+- Prepare to social sharing
 
 ## 🛠️ Getting started
 
@@ -43,3 +81,20 @@ $ vercel --prod
 Or simply push to the main branch, if you have the vercel integration enabled.
 
 > **Note:** Don't forget to set the environment variables in the vercel dashboard.
+
+## Future improvements
+- Internationalization
+- Add a dark mode
+- Push futher the SEO optimization
+
+## 🌅 Some screenshots
+<div>
+	<img src="docs/hero.png" alt="Hero" height="300"/>
+	<img src="docs/invoices.png" alt="Invoices" height="300"/>
+	<img src="docs/mobile.png" alt="Mobile" height="300"/>
+	<img src="docs/invoices-edit.png" alt="Invoices edit" height="300"/>
+	<img src="docs/customers.png" alt="Customers" height="300"/>
+	<img src="docs/login.png" alt="Login" height="300"/>
+	<img src="docs/skeleton.png" alt="Skeleton" height="300"/>
+	<img src="docs/404.png" alt="404" height="300"/>
+</p>
