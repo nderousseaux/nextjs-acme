@@ -89,12 +89,12 @@ Or simply push to the main branch, if you have the vercel integration enabled.
 
 ## 🌅 Some screenshots
 <div>
-	<img src="docs/hero.png" alt="Hero" height="300"/>
-	<img src="docs/invoices.png" alt="Invoices" height="300"/>
-	<img src="docs/mobile.png" alt="Mobile" height="300"/>
-	<img src="docs/invoices-edit.png" alt="Invoices edit" height="300"/>
-	<img src="docs/customers.png" alt="Customers" height="300"/>
-	<img src="docs/login.png" alt="Login" height="300"/>
-	<img src="docs/skeleton.png" alt="Skeleton" height="300"/>
-	<img src="docs/404.png" alt="404" height="300"/>
+	<img src="docs/hero.png" alt="Hero" height="200"/>
+	<img src="docs/invoices.png" alt="Invoices" height="200"/>
+	<img src="docs/mobile.png" alt="Mobile" height="200"/>
+	<img src="docs/invoices-edit.png" alt="Invoices edit" height="200"/>
+	<img src="docs/customers.png" alt="Customers" height="200"/>
+	<img src="docs/login.png" alt="Login" height="200"/>
+	<img src="docs/skeleton.png" alt="Skeleton" height="200"/>
+	<img src="docs/404.png" alt="404" height="200"/>
 </p>
