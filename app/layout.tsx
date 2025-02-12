@@ -11,6 +11,12 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
 };
 
+export function generateViewport() {
+  return {
+    themeColor: '#3b82f6',
+  }
+}
+
 export default function RootLayout({
   children,
 }: {
