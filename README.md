@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=js,next,tailwind,postgres,vercel" height="30" />
+	<img src="https://skillicons.dev/icons?i=ts,next,tailwind,postgres,vercel" height="30" />
 </p>
 
 <p align="center">
